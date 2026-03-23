@@ -1,6 +1,9 @@
 # Marketing-Performance-Customer-Funnel-Analytics-Dashboard
 This dashboard was built to analyze marketing performance and customer acquisition efficiency for a digital business. The goal was to enable data-driven decision-making across marketing spend, customer acquisition, and profitability.
 
+<img width="1920" height="1080" alt="@jyotiprakash" src="https://github.com/user-attachments/assets/4df66d06-fc89-4819-8c54-735739022396" />
+
+
 # Objectives
 Evaluate marketing efficiency using CAC and contribution profit
 Track daily and trend-based performance of campaigns
